@@ -1,3 +1,5 @@
+💰 Tax Calculator (Core Java)
+
 📌 Description
 
 This is a simple Tax Calculator application developed using Core Java.
